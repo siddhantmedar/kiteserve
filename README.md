@@ -1,4 +1,8 @@
-# kiteserve
+<p align="center">
+  <img src="assets/kiteserve-mark.png" alt="kiteserve logo" width="120">
+</p>
+
+<h1 align="center">kiteserve</h1>
 
 A small LLM inference engine in PyTorch for **Qwen3-0.6B**, with a **paged KV cache**, **continuous batching** and **recompute preemption**. Its outputs are checked against HuggingFace Transformers.
 
